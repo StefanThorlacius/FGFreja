@@ -34,6 +34,7 @@ To see all options add -h as a script parameter
 
 # Examples
 **Example 1, converting analouge values**
+
 Convert a file with, test_2.txt, with the numbers (analouge values in volt) -25.0 -5 0 5 10 5 0 -5 -10 -5 0 5 5 5 5 0 
 to a function generator file targeting PeakTech P4165
 
@@ -42,6 +43,7 @@ to a function generator file targeting PeakTech P4165
 This create the file test_2.bin ready to be loaded into the function generator
 
 **Example 2, converting a logic stream**
+
 Convert a file with, test_3.txt, with the logic values 0001010001010
 to a function generator file targeting PeakTech P4165 with values adapted for 3.3V logic
 
